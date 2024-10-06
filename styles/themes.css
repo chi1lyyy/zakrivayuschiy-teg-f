@@ -19,6 +19,8 @@
     --bold-font-weight: 700;
     --label-stroke: var(--main-color);
     --disabled: #00000099;
+    --button-hover-color: var(--main-color);
+    --heart-contour: var(--text-color);
    
 }
 
@@ -37,6 +39,8 @@
         --bold-font-weight: 700;
         --label-stroke: var(--main-color);
         --disabled: #00000099;
+        --button-hover-color: var(--main-color);
+        --heart-contour: var(--text-color);
     }
 }
 
@@ -53,6 +57,8 @@
     --bold-font-weight: 785;
     --label-stroke: var(--text-color);
     --disabled: #00CC1499;
+    --button-hover-color: var(--text-color);
+    --heart-contour: var(--text-color);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -69,5 +75,7 @@
         --bold-font-weight: 785;
         --label-stroke: var(--text-color);
         --disabled: #00CC1499;
+        --button-hover-color: var(--text-color);
+        --heart-contour: var(--text-color);
     }
 }
