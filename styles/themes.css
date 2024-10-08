@@ -13,7 +13,7 @@
        repeating-linear-gradient(90deg, transparent, #d3d3d3 2px),
        linear-gradient(#e7e7e7 00.01%, #1a1a1a); 
 /*В светлой теме мы немного продлили воздействие самого светлого оттенка и начали менять цвет от 0.01% всей высоты градиента, чтобы усилить эффект.*/
-    --main-font: Inter, sans-serif;
+    --main-font: 'Inter-Variable', sans-serif;
     --main-font-weight: 400;
     --accent-font: 'PressStart2P', sans-serif;
     --bold-font-weight: 700;
@@ -33,7 +33,7 @@
         repeating-linear-gradient(90deg, transparent, #d3d3d3 2px),
         linear-gradient(#e7e7e7, #1a1a1a); 
         /*add transform to gradient*/
-        --main-font: Inter, sans-serif;
+        --main-font: 'Inter-Variable', sans-serif;
         --main-font-weight: 400;
         --accent-font: 'PressStart2P', sans-serif;
         --bold-font-weight: 700;
@@ -51,7 +51,7 @@
         repeating-linear-gradient(to right, #000, transparent 2px),
         repeating-linear-gradient(to bottom, transparent, #000 2px),
         linear-gradient(#007f0c, #004306); 
-    --main-font: Inter, sans-serif;
+    --main-font: 'Inter-Variable', sans-serif;
     --main-font-weight: 465;
     --accent-font: 'PressStart2P', sans-serif;
     --bold-font-weight: 785;
@@ -69,7 +69,7 @@
         repeating-linear-gradient(#000, transparent 2px),
         repeating-linear-gradient(90deg, transparent, #000 2px),
         linear-gradient(#007f0c, #004306); 
-        --main-font: Inter, sans-serif;
+        --main-font: 'Inter-Variable', sans-serif;
         --main-font-weight: 465;
         --accent-font: 'PressStart2P', sans-serif;
         --bold-font-weight: 785;
