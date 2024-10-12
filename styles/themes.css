@@ -2,8 +2,8 @@
     --main-color: #fff;
     --text-color: #000;
     --background-image:    
-    repeating-linear-gradient(#d3d3d3, transparent 2px),
-    repeating-linear-gradient(90deg, transparent, #d3d3d3 2px),
+    repeating-linear-gradient(#d3d3d3 0 2px, transparent 2px 4px),
+    repeating-linear-gradient(90deg, transparent 0 2px, #d3d3d3 2px 4px),
     linear-gradient(to bottom, #e7e7e7 0.01%, #1a1a1a); 
     --main-font: 'Inter-Variable', sans-serif;
     --main-font-weight: 400;
@@ -22,8 +22,8 @@
         --main-color: #fff;
         --text-color: #000;
         --background-image: 
-        repeating-linear-gradient(#d3d3d3, transparent 2px),
-        repeating-linear-gradient(90deg, transparent, #d3d3d3 2px),
+        repeating-linear-gradient(#d3d3d3 0 2px, transparent 2px 4px),
+        repeating-linear-gradient(90deg, transparent 0 2px, #d3d3d3 2px 4px),
         linear-gradient(to bottom, #e7e7e7 0.01%, #1a1a1a);
         --main-font: 'Inter-Variable', sans-serif;
         --main-font-weight: 400;
@@ -41,8 +41,8 @@
     --main-color: #000;
     --text-color: #00CC14;
     --background-image: 
-        repeating-linear-gradient(to right, #000, transparent 2px),
-        repeating-linear-gradient(to bottom, transparent, #000 2px),
+        repeating-linear-gradient(to right, #000 0 2px, transparent 2px 4px),
+        repeating-linear-gradient(to bottom, transparent 0 2px, #000 2px 4px),
         linear-gradient(to bottom, #007f0c, #004306); 
     --main-font: 'Inter-Variable', sans-serif;
     --main-font-weight: 465;
@@ -60,8 +60,8 @@
         --main-color: #000;
         --text-color: #00CC14;
         --background-image: 
-        repeating-linear-gradient(#000, transparent 2px),
-        repeating-linear-gradient(90deg, transparent, #000 2px),
+        repeating-linear-gradient(#000 0 2px, transparent 2px 4px),
+        repeating-linear-gradient(90deg, transparent 0 2px, #000 2px 4px),
         linear-gradient(to bottom, #007f0c, #004306); 
         --main-font: 'Inter-Variable', sans-serif;
         --main-font-weight: 465;
